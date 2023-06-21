@@ -33,9 +33,7 @@ The development server will start at `http://localhost:3000`.
 
 ## To deploy the project to production:
 
-Use code with caution. Learn more
-
-npm run deploy
+    npm run deploy
 
 The project will be deployed to Vercel.
 
