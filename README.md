@@ -5,9 +5,9 @@
 ## This project is an e-commerce website built with Sanity.io, Next.js, React.js, and Stripe integration for payments.
 Features
 
-    Products can be created, edited, and deleted in Sanity.io.
-    Products can be added to a cart and purchased with Stripe.
-    The website is responsive and can be viewed on desktop, tablet, and mobile devices.
+1. Products can be created, edited, and deleted in Sanity.io.
+2. Products can be added to a cart and purchased with Stripe.
+3. The website is responsive and can be viewed on desktop, tablet, and mobile devices.
 
 ## Getting Started
 
