@@ -1,22 +1,22 @@
-## E-Commerce Project with Sanity.io, Next.js, React.js, and Stripe
+# E-Commerce Project with Sanity.io, Next.js, React.js, and Stripe
 
-# This project is an e-commerce website built with Sanity.io, Next.js, React.js, and Stripe integration for payments.
+## This project is an e-commerce website built with Sanity.io, Next.js, React.js, and Stripe integration for payments.
 Features
 
     Products can be created, edited, and deleted in Sanity.io.
     Products can be added to a cart and purchased with Stripe.
     The website is responsive and can be viewed on desktop, tablet, and mobile devices.
 
-# Getting Started
+## Getting Started
 
-To run this project on your local system, you will need to have the following installed:
+-> To run this project on your local system, you will need to have the following installed:
 
     Node.js
     npm
     Sanity.io account
     Stripe account
 
-Once you have all of the required dependencies installed, you can follow these steps to run the project:
+-> Once you have all of the required dependencies installed, you can follow these steps to run the project:
 
     Clone the GitHub repository.
     Install the project dependencies.
@@ -39,9 +39,7 @@ npm run deploy
 
 The project will be deployed to Vercel.
 
-Extended Description
-
-This project was created using the following technologies:
+# This project was created using the following technologies:
 
     Sanity.io: A headless CMS that allows you to create and manage content in a structured way.
     Next.js: A React framework that makes it easy to build server-rendered and static websites.
