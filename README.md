@@ -1,6 +1,6 @@
 # E-Commerce Project with Sanity.io, Next.js, React.js, and Stripe
 
-[E-commerce app]](https://ecommerce-sanity-xi.vercel.app/)
+[E-commerce app](https://ecommerce-sanity-xi.vercel.app/)
 
 ## This project is an e-commerce website built with Sanity.io, Next.js, React.js, and Stripe integration for payments.
 ### Features
